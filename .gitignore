@@ -1,3 +1,7 @@
 .svn
 target
 web-app/WEB-INF/classes
+bin
+target-eclipse
+grails-jquery-mobile-*.zip
+grails-jquery-mobile-*.zip.sha1
